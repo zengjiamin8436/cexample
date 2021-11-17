@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T05:26:09.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="clfsTi52oJBsKHEd9REF" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T06:45:12.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="pcR-88e8nmeJ6TZ2Ij-X" version="15.7.4" type="github">
   <diagram id="UWDzkhf6b-I-Ufx4RIvm" name="Page-1">
-    <mxGraphModel dx="1422" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,26 +73,26 @@
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-45" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6;dx=20;arrowHead=29.33;fillColor=#ffe6cc;strokeColor=#d79b00;direction=north;" parent="1" vertex="1">
           <mxGeometry x="626" y="404" width="84" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-46" value="渠道模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-46" value="线上与线下并行的渠道模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="586" y="364" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-47" value="渠道成员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-47" value="线上与线下渠道成员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="746" y="364" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-48" value="渠道结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-48" value="小米手机分销渠道结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="586" y="534" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-49" value="渠道控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-49" value="对中间商和消费者的渠道控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="746" y="534" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-58" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="576" y="314" width="100" height="50" as="geometry" />
+          <mxGeometry x="551" y="314" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-60" value="线上渠道" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="546" y="284" width="60" height="30" as="geometry" />
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-60" value="线上渠道模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="504" y="284" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-61" value="线下渠道" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="638" y="284" width="60" height="30" as="geometry" />
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-61" value="线下渠道模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="640" y="286" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-62" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="746" y="314" width="100" height="50" as="geometry" />
@@ -137,73 +137,70 @@
           <mxGeometry x="936" y="384" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-80" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="506" y="574" width="190" height="50" as="geometry" />
+          <mxGeometry x="457" y="574" width="282" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-81" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="756" y="574" width="100" height="50" as="geometry" />
+          <mxGeometry x="770" y="574" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-82" value="中间商" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="736" y="624" width="60" height="30" as="geometry" />
+          <mxGeometry x="753" y="622" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-83" value="消费者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="826" y="624" width="60" height="30" as="geometry" />
+          <mxGeometry x="854" y="622" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-84" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="726" y="654" width="70" height="40" as="geometry" />
+          <mxGeometry x="743" y="652" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-85" value="分销商" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="686" y="694" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="692" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-86" value="代理商" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="756" y="694" width="60" height="30" as="geometry" />
+          <mxGeometry x="781" y="692" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-87" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="836" y="654" width="70" height="40" as="geometry" />
+          <mxGeometry x="870" y="652" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-88" value="产品升级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="823" y="694" width="60" height="30" as="geometry" />
+          <mxGeometry x="846" y="692" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-89" value="品牌认知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="896" y="694" width="60" height="30" as="geometry" />
+          <mxGeometry x="923" y="692" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-93" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="556" y="599" width="10" height="25" as="geometry" />
+          <mxGeometry x="572" y="599" width="10" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ktw5Y0B_OCED_jIGJP1N-95" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="626" y="599" width="10" height="25" as="geometry" />
+          <mxGeometry x="641" y="599" width="10" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-96" value="影响因素" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="466" y="624" width="60" height="30" as="geometry" />
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-96" value="小米官网" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="420" y="622" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-97" value="渠道长度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="529.75" y="624" width="60" height="30" as="geometry" />
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-97" value="社会分销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="553.5" y="622" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-98" value="渠道宽度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="600" y="624" width="60" height="30" as="geometry" />
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-98" value="小米之家" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="621" y="622" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-99" value="渠道广度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="666" y="624" width="60" height="30" as="geometry" />
+        <mxCell id="ktw5Y0B_OCED_jIGJP1N-99" value="运营商" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="686" y="622" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-101" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="407.5" y="654" width="192.5" height="40" as="geometry" />
+        <mxCell id="EEuF5Tf1vRJEbU7uyYD1-1" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="516" y="264" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-102" value="产品品牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="366" y="694" width="60" height="30" as="geometry" />
+        <mxCell id="EEuF5Tf1vRJEbU7uyYD1-6" value="与运营商、分销商、零售商等进行合作、小米之家" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="592" y="202" width="118" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-103" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="463.5" y="674" width="10" height="20" as="geometry" />
+        <mxCell id="EEuF5Tf1vRJEbU7uyYD1-9" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="665" y="266" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-104" value="市场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="436" y="694" width="60" height="30" as="geometry" />
+        <mxCell id="EEuF5Tf1vRJEbU7uyYD1-16" value="与本土和跨境电商合作、小米官网" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="457" y="202" width="118" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-105" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="536" y="674" width="10" height="20" as="geometry" />
+        <mxCell id="EEuF5Tf1vRJEbU7uyYD1-23" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="513" y="599" width="10" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-106" value="分销商" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="506" y="694" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ktw5Y0B_OCED_jIGJP1N-107" value="战略" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="578" y="694" width="60" height="30" as="geometry" />
+        <mxCell id="EEuF5Tf1vRJEbU7uyYD1-25" value="电商平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="486" y="622" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
